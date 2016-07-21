@@ -108,7 +108,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Bigstock_112988942.jpg" />
+    <Resource Include="forrest_win.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="forrest.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
